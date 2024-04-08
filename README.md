@@ -17,11 +17,12 @@ The NUS-RightShip Hackathon 2024 is an event that aims to raise awareness about 
 3. **Preparation**:
    - Participants are required to have skills in Python programming, data analysis, and basic SQL. Data will be provided in CSV format, and recommended tools include Databricks and the Azure Platform.
 
-4. **Learning Plan**:
-   - A structured learning plan is provided for participants, covering Python programming, SQL training, data concepts, and Databricks usage. Access to Databricks Academy is available for further training.
-
-5. **Important Dates**:
+4. **Important Dates**:
    - The hackathon includes important dates such as full-day training sessions, Q&A sessions, release of problem statements, case paper submission, oral presentations, and award ceremonies.
 
+5. **Problem Statement**
+   -  Please check it in the file ***"NUS-RightShipHackathon2024_ProblemStatement_Share.pdf"***
+  
+     
 Overall, the NUS-RightShip Hackathon 2024 offers a platform for aspiring talents to engage with real-world maritime challenges and foster innovation in the industry.
 
