@@ -25,4 +25,3 @@ The NUS-RightShip Hackathon 2024 is an event that aims to raise awareness about 
 
 Overall, the NUS-RightShip Hackathon 2024 offers a platform for aspiring talents to engage with real-world maritime challenges and foster innovation in the industry.
 
-$PAGE_14, $PAGE_15, $PAGE_22, $PAGE_23, $PAGE_16
